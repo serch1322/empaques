@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>
+
+    <template id="bcb_abc" name="BCB">
+        <t t-set="additional_title">BCB</t> <!-- Permite agregar titulo a la pestaña del navegador -->
+    </template>
+</odoo>
